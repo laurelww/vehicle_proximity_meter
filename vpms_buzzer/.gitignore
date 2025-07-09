@@ -1,0 +1,18 @@
+# pio and vscode config
+.pio/
+.vscode/
+*.code-workspace
+
+# binary files
+*.elf
+*.bin
+*.hex
+*.exe
+
+# backup/temporary files
+*.log
+*.pyc
+__pycache__/
+*.swp
+*.swo
+*~
